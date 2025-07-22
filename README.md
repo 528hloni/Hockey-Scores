@@ -12,15 +12,16 @@ This is a project I built in high school using **Delphi (Object Pascal)**. The a
 
 ##  Technologies Used
 
-- **Language:** Delphi / Object Pascal
-- 
+- **Language:** Delphi (Object Pascal) 
 
 
 ##  Screenshot
 
-![Main Form]()
+![Screenshot 1](https://github.com/528hloni/Hockey-Scores/blob/main/Screenshots/pic%201.png)
+![Screenshot 2](https://github.com/528hloni/Hockey-Scores/blob/main/Screenshots/pic%202.png)
+![Screenshot 3](https://github.com/528hloni/Hockey-Scores/blob/main/Screenshots/pic%203.png)
 
----
+
 
 
 
