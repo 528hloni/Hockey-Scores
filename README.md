@@ -1,4 +1,4 @@
-#  Delphi Hockey Scores App
+#  Delphi Hockey Scores 
 
 This is a project I built in high school using **Delphi (Object Pascal)**. The application allows users to input and track hockey team scores over five games, calculate totals and averages and identify the winning team.
 
